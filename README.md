@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-> Me chamo Jonatas Silva, tenho 26 anos, sou estudante de analise e desenvolvimento de sistemas(UNIFBV) e estou fazendo transiçao de carreira para area de desenvolvimento. Estudava fisioterapia e tranquei no 8° Período por saber que nao era isso que eu queria pra meu futuro, sempre gostei de tecnologia e estou gostando muito do curso. a DIO abriu minha mente sobre tecnologia e espero um dai trabalhar com isso. 💻
+> Me chamo Jonatas Silva, tenho 26 anos, sou estudante de analise e desenvolvimento de sistemas. ATualmente Trabalhando com back-end(Java) 💻
 
 ## Me encontre em :
 
@@ -14,11 +14,9 @@
 
 ## Hard Skill:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
