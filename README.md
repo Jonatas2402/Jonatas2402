@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-> Me chamo Jonatas Silva, tenho 26 anos, sou estudante de analise e desenvolvimento de sistemas. ATualmente Trabalhando com back-end(Java) 💻
+> Me chamo Jonatas Silva, tenho 26 anos, sou estudante de analise e desenvolvimento de sistemas. Atualmente Estudando back-end(Java) 💻
 
 ## Me encontre em :
 
