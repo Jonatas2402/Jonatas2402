@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-> Me chamo Jonatas Silva, tenho 26 anos, estudante de ADS, Sou de Recife e Atualmente estudante de Java💻
+> Me sou Jonatas Silva, tenho 26 anos, estudante de ADS, Sou de Recife e Atualmente estudante de Java.💻
 
 ## Me encontre em :
 
