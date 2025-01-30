@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-> Me chamo Jonatas Silva, tenho 26 anos, estudante de tecnologia. Meu foco de estudos esta em Back End, mas tenho conhecimento de Front End.💻
+> Me chamo Jonatas Silva, tenho 26 anos, estudante de ADS, Sou de Recife e Atualmente estudante de Java💻
 
 ## Me encontre em :
 
