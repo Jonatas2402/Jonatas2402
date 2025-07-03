@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Me chamo Jonatas<br><br>- 🔭 Trabalho com Java/Springboot<br>- 📚 Estou estudando atualmente kafka mensageria em geral.</p>
+<p align="left">Me chamo Jonatas<br><br>- 🔭 Trabalho com Java/Springboot<br>- 📚 Estou estudando atualmente Java :D.</p>
 
 ###
 
