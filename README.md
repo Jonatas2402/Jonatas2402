@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024.<br>📚 Atualmente estudando Java/Springboot, postgres, docker.<br>🎯 Aprender e mudar o mundo cada dia.</p>
+<p align="left">✨ Criando bugs desde 2024.<br>📚 Atualmente estudando Java/Springboot, JavaScript, postgres, docker.<br>🎯 Aprender e mudar o mundo cada dia.</p>
 
 ###
 
